@@ -15,7 +15,6 @@ namespace readTextFileAndDatabase
          Purposed: oop database connection
          Created by: Liston Sitorus
          Created Date: 01 October 2018
-
              */
 
         private static string ConnStrVal;
