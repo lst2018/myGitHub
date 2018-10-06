@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyTitle("readTextFileAndDatabase")]
 [assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyConfiguration("")] 
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("readTextFileAndDatabase")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
