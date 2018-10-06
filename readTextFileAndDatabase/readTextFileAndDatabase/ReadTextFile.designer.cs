@@ -109,9 +109,10 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(20, 36);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(487, 20);
+            this.label1.Size = new System.Drawing.Size(590, 20);
             this.label1.TabIndex = 4;
-            this.label1.Text = "Demo read text file name and its content in folder and into database";
+            this.label1.Text = "Demo read text file name and its content in folder, can save the data into databa" +
+    "se";
             // 
             // checkBoxReadSubDirectory
             // 
